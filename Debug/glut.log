@@ -1,0 +1,15 @@
+﻿  Źródło.cpp
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(691,5): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(703,24): warning C4305: "argument": obcięcie z "double" do "GLfloat"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(762,52): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(766,43): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(767,41): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(768,42): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(774,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(775,43): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(776,43): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(783,45): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(784,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Krzys\source\repos\glut_1\glut\Źródło.cpp(785,44): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  glut.vcxproj -> C:\Users\Krzys\source\repos\glut_1\Debug\glut.exe
+  Liczba skopiowanych plików:         1.

@@ -1,0 +1,7 @@
+﻿  Źródło.cpp
+C:\Users\Krzys\source\repos\glut\glut\Źródło.cpp(173,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Krzys\source\repos\glut\glut\Źródło.cpp(174,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Krzys\source\repos\glut\glut\Źródło.cpp(175,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Krzys\source\repos\glut\glut\Źródło.cpp(241,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  glut.vcxproj -> C:\Users\Krzys\source\repos\glut\x64\Debug\glut.exe
+  Liczba skopiowanych plików:         1.
